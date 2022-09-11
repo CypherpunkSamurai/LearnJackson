@@ -138,3 +138,6 @@ Now we can parse to check the JSON, but what about reading the JSON values. For 
 I'm really helpfull to
 * [pjfanning](https://github.com/pjfanning) and [cowtowncoder](https://github.com/cowtowncoder) For helping me out
 * [This Article on Jackson and Deduction](https://www.baeldung.com/jackson-deduction-based-polymorphism)
+
+## Links
+* [Source Thread](https://github.com/FasterXML/jackson/discussions/118#discussioncomment-3618998)
